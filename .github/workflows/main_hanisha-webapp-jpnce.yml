@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Hanisha-webapp-jpnce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F2AD05CC2C94F758BA1C7B1ABCF5EA7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6B4A2D980AC4E82BB8D7290CFEA795E }}
